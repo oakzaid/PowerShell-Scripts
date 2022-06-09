@@ -1,4 +1,4 @@
-#These scripts are grab some basic info from your host machine
+# These scripts are grab some basic info from your host machine
 
 Breakdown of the scripts
 
